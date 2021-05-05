@@ -12,12 +12,10 @@ print("""================================
 #                            #
 #       ===[ ByTegn ]===     #
 #                            #
-#     ===[ Bero ]===         #
 ##############################
 
 İnstagram : jrok3n 
 İnstagram : ozekk35
-Instagram : wberatcicek 
 
 =================================""")
 print(Fore.CYAN)
@@ -49,24 +47,24 @@ print(Fore.YELLOW)
 if (sorgu==1):
   print(f'{site}%27%3Ccenter%3E%3Cb%3E%3Ch1%3EHacked%20By%20{username}%3C/h1%3E%3C/b%3E%3C/center%3E')
   print()
-  print("Google Kopyalayın Ve Tadını çıkarın :)")
+  print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
 if (sorgu==2):
   print(f'{site}%273Cmarquee%3EHacked%20By%20{username}%3C/marquee%3E')
   print()
-  print("Google Kopyalayın Ve Tadını çıkarın :)")
+  print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
 if (sorgu==3):
   print(f'{site}%27%3Ccenter%3E%3Cb%3E%3Cmarquee%3EHacked%20By%20{username}%3C/marquee%3E%3Ch1%3EHacked%20By%20{username}%3C/h1%3E%3C/b%3E%3C/center%3E')
   print()
-  print("Google Kopyalayın Ve Tadını çıkarın :)")
+  print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
 if (sorgu==4):
    print(f'{site}%27%3Ccenter%3E%3Cfont%20color=%22Red%22%3E%3Cb%3E%3Ch1%3EHacked%20By%20{username}%3C/h1%3E%3C/b%3E%3C/font%3E%3C/center%3E')
    print()
-   print("Google Kopyalayın Ve Tadını çıkarın :)")
+   print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
 if (sorgu==5):
    print(f'{site}%27%3Cfont%20color=%22Red%22%3E%3Cb%3E%3Cmarquee%3EHacked%20By%20{username}%3C/marquee%3E%3C/b%3E%3C/font%3E')
    print()
-   print("Google Kopyalayın Ve Tadını çıkarın :)")
+   print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
 if (sorgu==6):
    print(f'{site}%27%3Ccenter%3E%3Cfont%20color=%22Red%22%3E%3Cb%3E%3Cmarquee%3EHacked%20By%20{username}%3C/marquee%3E%3Ch1%3EHacked%20By%20{username}%3C/h1%3E%3C/b%3E%3C/font%3E%3C/center%3E')
    print()
-   print("Google Kopyalayın Ve Tadını çıkarın :)")
+   print("Kopyalayın ve googla yapıştırın iyi eğlenceler :) ")
