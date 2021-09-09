@@ -1,5 +1,7 @@
 import time
 import webbrowser
+import os
+os.system("clear")
 print("""================================
 ##############################
 #        AutoHtmlİnj         #
